@@ -12,7 +12,7 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 
 ### Screenshot
 
-  ![](Screenshot/pic101.png)
+  ![](Screenshot/pic1.jpeg)        ![](Screenshot/pic2.jpeg)
 
 
 ### Project Demo
