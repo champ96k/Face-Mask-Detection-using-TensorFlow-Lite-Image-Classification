@@ -1,0 +1,2 @@
+0 With Mask
+1 Without Mask
