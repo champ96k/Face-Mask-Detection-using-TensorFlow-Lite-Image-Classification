@@ -11,7 +11,7 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 
 ![Hello]("Screenshot/pic102.jpg")
 
-![Hello1]("pic102.jpg")
+![Hello1](pic102.jpg)
 
 ### Project Demo
 
