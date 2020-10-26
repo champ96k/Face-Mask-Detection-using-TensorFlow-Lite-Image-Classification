@@ -12,7 +12,11 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 
 ### Screenshot
 
-  ![](Screenshot/pic1.jpeg)        ![](Screenshot/pic2.jpeg)
+With Mask                  |  Without Mask
+:-------------------------:|:-------------------------:
+![](Screenshot/pic1.jpeg)  |  (Screenshot/pic2.jpeg)
+
+
 
 
 ### Project Demo
